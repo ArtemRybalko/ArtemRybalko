@@ -15,4 +15,4 @@ Tools and skills:
 * Jupyter, DBeaver, Git, LaTex, MS PowerPoint, MS Excel
 * Mathematics (Probability Theory, Mathematical Statistics and Analysis)
 
-You can see some of my works at my [portfolio](https://github.com/ArtemRybalko/Portfolio) (only in russian for now).
+You can see some of my works at my [Portfolio](https://github.com/ArtemRybalko/Portfolio) (only in russian for now).
